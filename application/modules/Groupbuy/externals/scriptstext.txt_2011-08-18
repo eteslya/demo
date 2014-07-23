@@ -1,0 +1,41 @@
+18:19:16 (callback) hello log
+18:19:16 (callback) Array
+(
+    [action] => callback
+    [req4] => lNtbDqGUBPXiFKq8
+    [req5] => SpqfQXtpoLSlZx7n
+    [mc_gross] => 24.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => T3RHZCJ7NQAUE
+    [tax] => 0.00
+    [payment_date] => 00:24:21 Aug 19, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 1.00
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => Aqgp4dtNj6WFx9g3N.pYc5DfTp3SAO1fvu5AmCH13KwHF9-F.FmEoXFk
+    [payer_email] => xukalu_1309257094_per@gmail.com
+    [txn_id] => 8YS73044TP017693M
+    [payment_type] => instant
+    [last_name] => User
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 1.00
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 24.00
+    [shipping] => 0.00
+    [ipn_track_id] => E2IrJBa8cwNghvRGJ1SzlQ
+)
+

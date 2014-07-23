@@ -1,0 +1,410 @@
+13:33:21 (callback) hello log
+13:33:21 (callback) Array
+(
+    [action] => callback
+    [req4] => mnkVKOvSH3dh9iGq
+    [req5] => eLMhe8lnOeOslO2T
+    [mc_gross] => 60.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 19:38:25 Aug 17, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 2.04
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AvUO1YMYWRO.bQO0V8fJeToq-lQSAKsUMJ2PI7g3oBUHmms80ugac9tI
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 9R969176BH0485615
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 2.04
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 60.00
+    [shipping] => 0.00
+    [ipn_track_id] => 8XFtgkvFQZT08CrEJtMZfQ
+)
+
+21:50:18 (callback) hello log
+21:50:18 (callback) Array
+(
+    [action] => callback
+    [req4] => EoaFF5eXYgUhUx4Q
+    [req5] => tYPQPbT11mmC0gmS
+    [mc_gross] => 60.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => T3RHZCJ7NQAUE
+    [tax] => 0.00
+    [payment_date] => 03:55:20 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 2.04
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AfswZ5t.NOB-PEHsC4DqyWn5XaJcAhPciD-MVqG2qfpyjljDz9sZ1dwc
+    [payer_email] => xukalu_1309257094_per@gmail.com
+    [txn_id] => 1WA98458M4082910N
+    [payment_type] => instant
+    [last_name] => User
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 2.04
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 60.00
+    [shipping] => 0.00
+    [ipn_track_id] => U1mNgawNsUJ77CLuzVDO-A
+)
+
+22:01:16 (callback) hello log
+22:01:16 (callback) Array
+(
+    [action] => callback
+    [req4] => FYymmYNgMn0A1Fbc
+    [req5] => TN1bD5k83a8TtHU1
+    [mc_gross] => 134.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => T3RHZCJ7NQAUE
+    [tax] => 0.00
+    [payment_date] => 04:06:22 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 4.19
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AK6qmozIiwm9Ciqbd89qh8N6oZ80AtsADV-xvhcGDREePNGOQO1LwCRP
+    [payer_email] => xukalu_1309257094_per@gmail.com
+    [txn_id] => 7LS61867J2600184Y
+    [payment_type] => instant
+    [last_name] => User
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 4.19
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 134.00
+    [shipping] => 0.00
+    [ipn_track_id] => eSuayBEQ7n226rc2d-yUfA
+)
+
+22:11:04 (callback) hello log
+22:11:04 (callback) Array
+(
+    [action] => callback
+    [req4] => tzyAN3FxyLeCqXmb
+    [req5] => ynODOXDHDUk4naqE
+    [mc_gross] => 30.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 04:16:07 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 1.17
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AqJxYyv8aVQxRJiG3o9KrC0jJft8AHmQf9FewzIYlhjca77ueGFHNidy
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 9MD30563U1166871W
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 1.17
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 30.00
+    [shipping] => 0.00
+    [ipn_track_id] => QeBU7KnR5SfURNdF7g63-A
+)
+
+22:12:46 (callback) hello log
+22:12:46 (callback) Array
+(
+    [action] => callback
+    [req4] => c1T9c6h6De58e500
+    [req5] => fU9D0fhVS4tzCyMf
+    [mc_gross] => 30.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 04:17:50 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 1.17
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => Aj-TJD-XpPBnFBrhoweG773xdzsvAxAjrnT-wQLy95F-ZUqhWriJ06nI
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 40474503NB872411G
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 1.17
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 30.00
+    [shipping] => 0.00
+    [ipn_track_id] => ltYSbEeG5KOEvcYvB57CmQ
+)
+
+22:14:17 (callback) hello log
+22:14:17 (callback) Array
+(
+    [action] => callback
+    [req4] => Qtcga8DB9z5uvlvU
+    [req5] => NCL1tvk9ZdEcTvxh
+    [mc_gross] => 45.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 04:19:22 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 1.61
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AZI6frNOV2YiXACrOWoNVlaifNYkAx84NbrhFbb5Qmir5zDh4LNGUkKi
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 7MT218577T2255148
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => AUD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 
+    [shipping] => 0.00
+    [ipn_track_id] => rcKXaNmpEcMMCO9q4AOqeQ
+)
+
+22:17:57 (callback) hello log
+22:17:57 (callback) Array
+(
+    [action] => callback
+    [req4] => k18zKKMUtBKfzB54
+    [req5] => lNnxz9LfpkzgaoeB
+    [mc_gross] => 225.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 04:23:02 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 6.83
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AedILgxvuhDWljl8xmQQNQyhC4osAF2gJcFtaXqAUvAKE8DFGhRU8RwU
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 0WS52849U94643804
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => AUD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 
+    [shipping] => 0.00
+    [ipn_track_id] => -Yht5uXogdlS47j.0yh05g
+)
+
+22:19:25 (callback) hello log
+22:19:25 (callback) Array
+(
+    [action] => callback
+    [req4] => vKsaNmQ9LmAckBum
+    [req5] => 9EH1FiAzcP0s3aTh
+    [mc_gross] => 225.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 04:24:31 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 6.83
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => A7nsp7NqAmQ1Ga998H-qh-FQm0xRAqXsjFnSe1CfJ51meiJ3Ys44hdq-
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 8ES25281B98008819
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => AUD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 
+    [shipping] => 0.00
+    [ipn_track_id] => bAp7DARAAA-0qoMqAJ0C2w
+)
+
+22:34:41 (callback) hello log
+22:34:41 (callback) Array
+(
+    [action] => callback
+    [req4] => ihi6gpsVt9C2D9Vb
+    [req5] => HaVEU28qHvqH6Kbc
+    [mc_gross] => 67.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => CZP82CVHSZK4Q
+    [tax] => 0.00
+    [payment_date] => 04:39:45 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => kien
+    [mc_fee] => 2.24
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => AFcWxV21C7fd0v3bYYYRCpSSRl31AFmCt6yvjigU17hkIFWZ25OmakZg
+    [payer_email] => thikien@gmail.com
+    [txn_id] => 07D897600L4820313
+    [payment_type] => instant
+    [last_name] => lam
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 2.24
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 67.00
+    [shipping] => 0.00
+    [ipn_track_id] => rCv5ap6Q.A9vWgpmdrCEAA
+)
+
+22:43:50 (callback) hello log
+22:43:50 (callback) Array
+(
+    [action] => callback
+    [req4] => ClMCOB9qdhAgL2Vb
+    [req5] => l0eSQbLQTZZILm8o
+    [mc_gross] => 20.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => T3RHZCJ7NQAUE
+    [tax] => 0.00
+    [payment_date] => 04:48:50 Aug 18, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 0.88
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => Ae0jVZHAx.TJYQetlv2ZRtg3KF5eAIh4MDjek0q5lIWz3yE4Siwc1z8F
+    [payer_email] => xukalu_1309257094_per@gmail.com
+    [txn_id] => 64N93058C8879312D
+    [payment_type] => instant
+    [last_name] => User
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 0.88
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => USD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 20.00
+    [shipping] => 0.00
+    [ipn_track_id] => WH4xsldRO.r2JB6mgtU2SA
+)
+

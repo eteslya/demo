@@ -1,0 +1,72 @@
+
+#global_page_user-signup-index .form-elements{width: 400px}
+#global_page_user-signup-index .global_form div.form-label {text-align:left; float:left}
+#global_page_user-signup-index #language-label {width:100px}
+
+.layout_page_user_signup_index h3 { }
+
+.layout_page_user_signup_index .layout_middle {padding: 10px;}
+
+
+.layout_page_user_signup_index  .form-element input{
+	background: #f9f9f9;
+	padding: 7px 15px 7px 5px;
+	margin: 10px 0 0px 0;
+	width: 280px;
+	border: 1px solid #dcdcdc;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	font-size: 14px;
+	color: #222;
+}
+
+.layout_page_user_signup_index  .form-element input:focus {
+	background-color: #fff;
+	outline: none;
+}
+
+.global_page_user-signup-index{}
+
+#global_page_user-signup-index .global_form #email-label{display: none}
+#global_page_user-signup-index .global_form #password-label{display: none}
+#global_page_user-signup-index .global_form #passconf-label{display: none}
+#global_page_user-signup-index .global_form #username-label{display: none}
+#global_page_user-signup-index .global_form #timezone-label{display: none}
+#global_page_user-signup-index .global_form #submit-label{display: none}
+#global_page_user-signup-index .global_form #terms-label{display: none}
+#global_page_user-signup-index .global_form #timezone-element{display: none}
+
+.global_form div.form-label #email-label{
+	display: none  !important; 
+	height: 0px;
+	margin-bottom: 0 !important;
+}
+
+.layout_page_user_signup_index  .form-elements, .layout_page_user_signup_index  div.form-element{
+margin: 0px;
+margin-bottom: 10px;
+}
+
+
+
+.layout_page_user_signup_index button, .layout_page_user_signup_index .button {
+    box-shadow: 0px 1px 0px 0px rgb(255, 255, 255) inset;
+	background: url(/bv/custom/login/btn.png) repeat-x;
+    background: -moz-linear-gradient(center top , rgb(255, 255, 255) 5%, rgb(246, 246, 246) 100%) repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    border: 1px solid rgb(220, 220, 220);
+    display: inline-block;
+    color: rgb(102, 102, 102);
+    font-size: 12px;
+    font-weight: bold;
+    padding: 6px 24px 10px 24px;
+    text-decoration: none;
+    text-shadow: 1px 1px 0px rgb(255, 255, 255);
+    cursor: pointer;
+    margin: 10px 0px;
+	line-height: 18px;
+	text-transform:capitalize;
+}
+
+.layout_page_user_signup_index  .form-element input[type='checkbox'] { width: 20px;margin: 5px 0 0 0; }

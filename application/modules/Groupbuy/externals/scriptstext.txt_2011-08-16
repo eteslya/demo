@@ -1,0 +1,82 @@
+20:03:28 (callback) hello log
+20:03:28 (callback) Array
+(
+    [action] => callback
+    [req4] => SfPMnAdZA3hV8E45
+    [req5] => z7hFNdxAmKifmnxb
+    [mc_gross] => 90.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => U48K8SWL2AWK4
+    [tax] => 0.00
+    [payment_date] => 02:08:33 Aug 17, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 2.91
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => ABgvlgPdQMr4.cGaKZ7Ar7rkbPA2A-u6t3s787m-ouaCuAMIq-nz2mGV
+    [payer_email] => namnv_1313567170_per@gmail.com
+    [txn_id] => 5E7139626X028154H
+    [payment_type] => instant
+    [last_name] => User
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => 
+    [mc_currency] => AUD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 
+    [shipping] => 0.00
+    [ipn_track_id] => xlrBwp5hCWO4fyM3NRNMCg
+)
+
+20:06:42 (callback) hello log
+20:06:42 (callback) Array
+(
+    [action] => callback
+    [req4] => xuQEUCgayz60Ohpl
+    [req5] => zSHx70IilE8P7LAH
+    [mc_gross] => 45.00
+    [protection_eligibility] => Ineligible
+    [payer_id] => U48K8SWL2AWK4
+    [tax] => 0.00
+    [payment_date] => 02:11:46 Aug 17, 2011 PDT
+    [payment_status] => Completed
+    [charset] => windows-1252
+    [first_name] => Test
+    [mc_fee] => 1.61
+    [notify_version] => 3.2
+    [custom] => 
+    [payer_status] => verified
+    [business] => nam.ng_1311565252_per@gmail.com
+    [quantity] => 1
+    [verify_sign] => At-laWuKL5TORqdveSXa7m7qlLPhAjA7vZI2IAwZWyZHFJkwrUz.h.bR
+    [payer_email] => namnv_1313567170_per@gmail.com
+    [txn_id] => 7P160587YF102543F
+    [payment_type] => instant
+    [last_name] => User
+    [receiver_email] => nam.ng_1311565252_per@gmail.com
+    [payment_fee] => 
+    [receiver_id] => 7GWWXV8J4P7KU
+    [txn_type] => web_accept
+    [item_name] => test #1
+    [mc_currency] => AUD
+    [item_number] => 
+    [residence_country] => US
+    [test_ipn] => 1
+    [handling_amount] => 0.00
+    [transaction_subject] => 
+    [payment_gross] => 
+    [shipping] => 0.00
+    [ipn_track_id] => gW1rjRBUXFA3wk-cBZPbnA
+)
+

@@ -1,0 +1,244 @@
+2013-09-18T23:40:00+00:00 NOTICE (5): [8] Undefined variable: upload_url (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Classified/Form/Create.php) [74]
+Error Code: 701862
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Form.php(235): Classified_Form_Create->init()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form.php(117): Zend_Form->__construct()
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Classified/controllers/IndexController.php(256): Engine_Form->__construct()
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Classified_IndexController->createAction()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#10 {main}
+
+2013-09-18T23:52:38+00:00 NOTICE (5): [8] Undefined variable: upload_url (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Classified/Form/Create.php) [74]
+Error Code: 3f07c8
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Form.php(235): Classified_Form_Create->init()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form.php(117): Zend_Form->__construct()
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Classified/controllers/IndexController.php(256): Engine_Form->__construct()
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Classified_IndexController->createAction()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#10 {main}
+
+2013-09-18T23:53:25+00:00 NOTICE (5): [8] Undefined variable: upload_url (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Classified/Form/Create.php) [74]
+Error Code: 112ea1
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Form.php(235): Classified_Form_Create->init()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form.php(117): Zend_Form->__construct()
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Classified/controllers/IndexController.php(256): Engine_Form->__construct()
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Classified_IndexController->createAction()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#10 {main}
+
+2013-09-18T23:53:47+00:00 NOTICE (5): [8] Undefined index: parent_type (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Event/widgets/browse-menu/Controller.php) [43]
+Error Code: 71ef6e
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Widget/Abstract.php(254): Event_Widget_BrowseMenuController->indexAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Widget.php(73): Engine_Content_Widget_Abstract->render()
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(583): Engine_Content_Element_Widget->_render()
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content.php(208): Engine_Content_Element_Abstract->render()
+#10 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Controller/Action/Helper/Content.php(136): Engine_Content->render('event_index_browse')
+#11 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Controller/Action/Helper/Content.php(38): Engine_Content_Controller_Action_Helper_Content->render()
+#12 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/HelperBroker.php(277): Engine_Content_Controller_Action_Helper_Content->postDispatch()
+#13 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(523): Zend_Controller_Action_HelperBroker->notifyPostDispatch()
+#14 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('browseAction')
+#15 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#16 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#17 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#18 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#19 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#20 {main}
+
+2013-09-18T23:53:52+00:00 NOTICE (5): [8] Undefined index: parent_type (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Event/widgets/browse-menu/Controller.php) [43]
+Error Code: d85ebf
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Widget/Abstract.php(254): Event_Widget_BrowseMenuController->indexAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Widget.php(73): Engine_Content_Widget_Abstract->render()
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(583): Engine_Content_Element_Widget->_render()
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content.php(208): Engine_Content_Element_Abstract->render()
+#10 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Controller/Action/Helper/Content.php(136): Engine_Content->render('event_index_create')
+#11 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Controller/Action/Helper/Content.php(38): Engine_Content_Controller_Action_Helper_Content->render()
+#12 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/HelperBroker.php(277): Engine_Content_Controller_Action_Helper_Content->postDispatch()
+#13 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(523): Zend_Controller_Action_HelperBroker->notifyPostDispatch()
+#14 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#15 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#16 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#17 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#18 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#19 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#20 {main}
+
+2013-09-18T23:54:38+00:00 WARN (4): [2] Invalid argument supplied for foreach() (/var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View/Helper/FormErrors.php) [79]
+Error Code: 120207
+Stack trace:
+#0 (unknown file)(0): Zend_View_Helper_FormErrors->formErrors('Please select a date from the ca...', Array)
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View/Abstract.php(342): call_user_func_array(Array, Array)
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form/Decorator/FormErrors.php(391): Zend_View_Abstract->__call('formErrors', Array)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form/Decorator/FormErrors.php(391): Zend_View->formErrors('Please select a date from the ca...', Array)
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form/Decorator/FormErrors.php(68): Engine_Form_Decorator_FormErrors->_recurseForm(Event_Form_Create, Zend_View)
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Form.php(2644): Engine_Form_Decorator_FormErrors->render('<div class="form-elements">
+<div...')
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Event/views/scripts/index/create.tpl(21): Zend_Form->render()
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View.php(108): include('/var/www/vhosts/bio-views.com/ht...')
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View/Abstract.php(835): Zend_View->_run('/var/www/vhosts/bio-views.com/ht...')
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/Helper/ViewRenderer.php(903): Zend_View_Abstract->render('index/create.tpl')
+#10 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/Helper/ViewRenderer.php(924): Zend_Controller_Action_Helper_ViewRenderer->renderScript('index/create.tpl', )
+#11 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/Helper/ViewRenderer.php(963): Zend_Controller_Action_Helper_ViewRenderer->render()
+#12 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/HelperBroker.php(277): Zend_Controller_Action_Helper_ViewRenderer->postDispatch()
+#13 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(523): Zend_Controller_Action_HelperBroker->notifyPostDispatch()
+#14 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#15 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#16 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#17 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#18 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#19 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#20 {main}
+
+2013-09-18T23:54:38+00:00 WARN (4): [2] Invalid argument supplied for foreach() (/var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View/Helper/FormErrors.php) [79]
+Error Code: f6f9a2
+Stack trace:
+#0 (unknown file)(0): Zend_View_Helper_FormErrors->formErrors('Please select a date from the ca...', Array)
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View/Abstract.php(342): call_user_func_array(Array, Array)
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form/Decorator/FormErrors.php(391): Zend_View_Abstract->__call('formErrors', Array)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form/Decorator/FormErrors.php(391): Zend_View->formErrors('Please select a date from the ca...', Array)
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Form/Decorator/FormErrors.php(68): Engine_Form_Decorator_FormErrors->_recurseForm(Event_Form_Create, Zend_View)
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Form.php(2644): Engine_Form_Decorator_FormErrors->render('<div class="form-elements">
+<div...')
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Event/views/scripts/index/create.tpl(21): Zend_Form->render()
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View.php(108): include('/var/www/vhosts/bio-views.com/ht...')
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/View/Abstract.php(835): Zend_View->_run('/var/www/vhosts/bio-views.com/ht...')
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/Helper/ViewRenderer.php(903): Zend_View_Abstract->render('index/create.tpl')
+#10 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/Helper/ViewRenderer.php(924): Zend_Controller_Action_Helper_ViewRenderer->renderScript('index/create.tpl', )
+#11 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/Helper/ViewRenderer.php(963): Zend_Controller_Action_Helper_ViewRenderer->render()
+#12 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/HelperBroker.php(277): Zend_Controller_Action_Helper_ViewRenderer->postDispatch()
+#13 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(523): Zend_Controller_Action_HelperBroker->notifyPostDispatch()
+#14 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#15 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#16 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#17 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#18 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#19 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#20 {main}
+
+2013-09-18T23:54:38+00:00 NOTICE (5): [8] Undefined index: parent_type (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Event/widgets/browse-menu/Controller.php) [43]
+Error Code: d0f4fd
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Widget/Abstract.php(254): Event_Widget_BrowseMenuController->indexAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Widget.php(73): Engine_Content_Widget_Abstract->render()
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(583): Engine_Content_Element_Widget->_render()
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#7 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Decorator/Children.php(31): Engine_Content_Element_Abstract->render()
+#8 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Element/Abstract.php(594): Engine_Content_Decorator_Children->render('')
+#9 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content.php(208): Engine_Content_Element_Abstract->render()
+#10 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Controller/Action/Helper/Content.php(136): Engine_Content->render('event_index_create')
+#11 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Content/Controller/Action/Helper/Content.php(38): Engine_Content_Controller_Action_Helper_Content->render()
+#12 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action/HelperBroker.php(277): Engine_Content_Controller_Action_Helper_Content->postDispatch()
+#13 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(523): Zend_Controller_Action_HelperBroker->notifyPostDispatch()
+#14 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('createAction')
+#15 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#16 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#17 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#18 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#19 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#20 {main}
+
+2013-09-18T23:56:34+00:00 NOTICE (5): [8] Undefined index: auth (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Messages/controllers/MessagesController.php) [308]
+Error Code: bcfb4d
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Messages_MessagesController->composeAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('composeAction')
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#7 {main}
+
+2013-09-18T23:56:34+00:00 NOTICE (5): [8] Undefined index: auth (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Messages/controllers/MessagesController.php) [308]
+Error Code: cee9cc
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Messages_MessagesController->composeAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('composeAction')
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#7 {main}
+
+2013-09-18T23:56:34+00:00 NOTICE (5): [8] Undefined index: auth (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Messages/controllers/MessagesController.php) [308]
+Error Code: 92aae7
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Messages_MessagesController->composeAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('composeAction')
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#7 {main}
+
+2013-09-18T23:56:34+00:00 NOTICE (5): [8] Undefined index: auth (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Messages/controllers/MessagesController.php) [308]
+Error Code: a80642
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Messages_MessagesController->composeAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('composeAction')
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#7 {main}
+
+2013-09-18T23:56:34+00:00 NOTICE (5): [8] Undefined index: auth (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Messages/controllers/MessagesController.php) [308]
+Error Code: 0dd097
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Messages_MessagesController->composeAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('composeAction')
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#7 {main}
+
+2013-09-18T23:56:34+00:00 NOTICE (5): [8] Undefined index: auth (/var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Messages/controllers/MessagesController.php) [308]
+Error Code: 1c52e2
+Stack trace:
+#0 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Action.php(513): Messages_MessagesController->composeAction()
+#1 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Dispatcher/Standard.php(289): Zend_Controller_Action->dispatch('composeAction')
+#2 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Zend/Controller/Front.php(946): Zend_Controller_Dispatcher_Standard->dispatch(Zend_Controller_Request_Http, Zend_Controller_Response_Http)
+#3 /var/www/vhosts/bio-views.com/httpdocs/SE/application/modules/Core/Bootstrap.php(75): Zend_Controller_Front->dispatch()
+#4 /var/www/vhosts/bio-views.com/httpdocs/SE/application/libraries/Engine/Application.php(160): Core_Bootstrap->run()
+#5 /var/www/vhosts/bio-views.com/httpdocs/SE/application/index.php(205): Engine_Application->run()
+#6 /var/www/vhosts/bio-views.com/httpdocs/SE/index.php(24): include('/var/www/vhosts/bio-views.com/ht...')
+#7 {main}
+

@@ -1,0 +1,168 @@
+2013-11-01T17:10:04+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 176
+
+METHOD=BMButtonSearch&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&STARTDATE=1383325803
+Response:
+HTTP/1.1 200 OK
+Date: Fri, 01 Nov 2013 17:10:04 GMT
+Server: Apache
+Content-length: 246
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TIMESTAMP=2013%2d11%2d01T17%3a10%3a04Z&CORRELATIONID=55ad908d97a8&ACK=Failure&VERSION=65%2e0&BUILD=8208991&L_ERRORCODE0=11998&L_SHORTMESSAGE0=Invalid%20Argument&L_LONGMESSAGE0=The%20start%20date%20specified%20is%20invalid%2e&L_SEVERITYCODE0=Error
+
+2013-11-14T05:37:44+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 689
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F1%3Forder_id%3D1%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F1%3Forder_id%3D1%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=1&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F1%3Forder_id%3D1&L_BILLINGAGREEMENTDESCRIPTION0=%249.99+monthly&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 05:37:44 GMT
+Server: Apache
+Content-length: 136
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d217063364C5028504&TIMESTAMP=2013%2d11%2d14T05%3a37%3a44Z&CORRELATIONID=a13bb09faebd5&ACK=Success&VERSION=65%2e0&BUILD=8451873
+
+2013-11-14T05:40:35+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 689
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F2%3Forder_id%3D2%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F2%3Forder_id%3D2%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=2&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F2%3Forder_id%3D2&L_BILLINGAGREEMENTDESCRIPTION0=%249.99+monthly&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 05:40:35 GMT
+Server: Apache
+Content-length: 136
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d2U86673808844191S&TIMESTAMP=2013%2d11%2d14T05%3a40%3a35Z&CORRELATIONID=367b9b06748ed&ACK=Success&VERSION=65%2e0&BUILD=8451873
+
+2013-11-14T05:44:27+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 689
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F3%3Forder_id%3D3%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F3%3Forder_id%3D3%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=3&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F3%3Forder_id%3D3&L_BILLINGAGREEMENTDESCRIPTION0=%249.99+monthly&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 05:44:27 GMT
+Server: Apache
+Content-length: 136
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d3EJ155588K3388203&TIMESTAMP=2013%2d11%2d14T05%3a44%3a27Z&CORRELATIONID=c52c6e0c4101a&ACK=Success&VERSION=65%2e0&BUILD=8451873
+
+2013-11-14T05:48:30+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 689
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F4%3Forder_id%3D4%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F4%3Forder_id%3D4%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=4&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F4%3Forder_id%3D4&L_BILLINGAGREEMENTDESCRIPTION0=%249.99+monthly&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 05:48:30 GMT
+Server: Apache
+Content-length: 136
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d5U022781AE025933R&TIMESTAMP=2013%2d11%2d14T05%3a48%3a30Z&CORRELATIONID=7c45e6322fb0f&ACK=Success&VERSION=65%2e0&BUILD=8451873
+
+2013-11-14T05:49:49+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 689
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F6%3Forder_id%3D5%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F6%3Forder_id%3D5%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=5&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F6%3Forder_id%3D5&L_BILLINGAGREEMENTDESCRIPTION0=%241.49+monthly&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 05:49:49 GMT
+Server: Apache
+Content-length: 135
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d7L2134558F3452422&TIMESTAMP=2013%2d11%2d14T05%3a49%3a49Z&CORRELATIONID=aa0196227549&ACK=Success&VERSION=65%2e0&BUILD=8451873
+
+2013-11-14T17:16:54+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 689
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F8%3Forder_id%3D6%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F8%3Forder_id%3D6%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=6&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F8%3Forder_id%3D6&L_BILLINGAGREEMENTDESCRIPTION0=%249.99+monthly&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 17:16:54 GMT
+Server: Apache
+Content-length: 136
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d4L082673W69971524&TIMESTAMP=2013%2d11%2d14T17%3a16%3a54Z&CORRELATIONID=a7b130e06a69a&ACK=Success&VERSION=65%2e0&BUILD=8451873
+
+2013-11-14T17:51:37+00:00 DEBUG (7): Request:
+POST /nvp HTTP/1.1
+Accept: */*
+Host: api-3t.paypal.com
+Connection: close
+Accept-encoding: gzip, deflate
+User-Agent: Zend_Http_Client
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 702
+
+METHOD=SetExpressCheckout&VERSION=65.0&USER=bio.views.pa_api1.gmail.com&PWD=7GDPGK9C45QER4W6&SIGNATURE=AgjWV59FQlA3d.0zOOeyNPcgj7cbAc5BhNWKpyhAtAZ4gosWHDe.GBJP&RETURNURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F9%3Forder_id%3D7%26state%3Dreturn&CANCELURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Freturn%2Fsubscription_id%2F9%3Forder_id%3D7%26state%3Dcancel&PAYMENTREQUEST_0_CURRENCYCODE=USD&PAYMENTREQUEST_0_INVNUM=7&PAYMENTREQUEST_0_NOTIFYURL=http%3A%2F%2Fwww.bio-views.com%2Fbv%2Fpage-package%2Findex%2Fcontroller%2Fipn%2Fsubscription_id%2F9%3Forder_id%3D7&L_BILLINGAGREEMENTDESCRIPTION0=%249.99+monthly+for+3+months&L_BILLINGTYPE0=RecurringPayments
+Response:
+HTTP/1.1 200 OK
+Date: Thu, 14 Nov 2013 17:51:36 GMT
+Server: Apache
+Content-length: 136
+Connection: close
+Content-type: text/plain; charset=utf-8
+
+TOKEN=EC%2d9A778281XE588214P&TIMESTAMP=2013%2d11%2d14T17%3a51%3a37Z&CORRELATIONID=f15157dae594a&ACK=Success&VERSION=65%2e0&BUILD=8451873
+

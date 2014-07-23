@@ -1,0 +1,193 @@
+.f1 .form-elements div.form-label {
+
+   text-align: left;
+   width: auto;
+   margin-left: 12px;
+   float: none;
+   font-size: 8pt;
+   margin-bottom: 1px;
+}
+
+.f1 #submit-label{
+   display: none;
+}
+
+.f1 .form-elements div.form-wrapper {
+   float: left;
+   clear: none;
+   overflow: hidden;
+}
+.f1.text_calendar{
+   display: inline;
+   margin-top: 0px!important;
+}
+.img_calendar{
+   position: relative; 
+   top: 3px; 
+   margin-left: -2px;
+}
+
+.f1 .form-elements div.form-element {
+   min-width: 0;
+   max-width: none;
+   margin-left: 15px;
+
+}
+
+.f1 .form-elements input[type="text"] {
+
+   width: 100px;
+
+
+}
+.f1 input[type="text"]{
+   margin-top: 0px!important;
+}
+.f1 button[type="submit"]{
+
+   margin-top: 10px;
+
+}
+
+
+.ynaffiliate_account {
+   border-bottom: 1px solid #D9D9D9;
+   border-left: 1px solid #D9D9D9;
+   border-right: 1px solid #D9D9D9;
+   padding: 4px 0 4px 5px;
+}
+
+.ynaffiliate_account_bold
+{
+   font-weight: 700;
+}
+.ynaffiliate_link
+{
+   border-bottom: 0px solid #D9D9D9;
+   border-left: 0px solid #D9D9D9;
+   border-right: 0px solid #D9D9D9;
+   padding: 5px 0 5px 5px;
+   width: 90px;
+
+
+}
+.ynaffiliate_description{
+   padding: 5px 0 5px 5px;
+   font-size: smaller;
+}
+
+.ynaffiliate_text{
+   width: 315px;
+   height: 20px;
+
+}
+.table_frontend{
+   cellpadding:0px;
+   cellspacing:0px;
+   border:0px ;
+   width:100%;
+}
+.table_th{
+   background-color: $theme_form_border_color;
+   border-bottom: 1px solid #AAAAAA;
+   font-weight: bold;
+   padding: 7px 10px;
+   white-space: normal;
+}
+.table_scroll
+{
+   overflow: auto;
+}
+
+.table_longfield
+{
+   max-width: 230px;
+   word-wrap: break-word;
+   border-bottom: 1px solid #EEEEEE;
+   font-size: 0.9em;
+   padding: 7px 10px;
+   vertical-align: top;
+}
+
+.table_td{
+   border-bottom: 1px solid #EEEEEE;
+   font-size: 0.9em;
+   padding: 7px 10px;
+   vertical-align: top;
+   white-space: normal;
+
+}
+#formborder{
+   border: 2px solid $theme_form_border_color;
+
+   padding: 10px;
+}
+
+
+ul.faqs-lists{
+
+}
+ul.faqs-lists li{
+   list-style-type: decimal;
+   list-style-position: inside;
+   padding-top: 6px;
+}
+ul.faq-details-list li{
+   margin-top: 10px;
+}
+div.faq-question{
+   border-top-width: 1px;
+   padding-top:10px;
+   font-weight: bold;
+}
+div.faq-answer{
+   padding: 10px 0;
+}
+div.faq-gotop{
+
+}
+
+.slideshow_container, .main_store_list, .mini_store_list, .main_product_list, .mini_product_list,.store_quicklinks_menu{
+   +rounded;
+   border-color: $theme_foreground_border_color;
+   border-width: 1px;
+   margin-bottom: 15px;
+}
+
+.mini_store_list, .mini_product_list,.store_quicklinks_menu{
+   +foreground;
+}
+.mini_product_list > li + li, .mini_store_list > li + li {
+   border-top-width:1px;
+   border-color: $theme_foreground_border_color;
+}
+.mini_store_list li,.mini_product_list li{
+   margin: 0 6px;
+   padding: 6px 0;
+}
+
+.ynaffiliate_quicklinks_menu{
+
+   background-color: #E9F4FA;
+   background-image: url("/se_aff/application/modules/Core/externals/images/foreground_bg.png?c=8");
+   background-repeat: repeat-x;
+   border: 1px solid #D0E2EC;
+
+   border-color: #D0E2EC;
+   border-radius: 3px 3px 3px 3px;
+   border-width: 1px;
+   margin-bottom: 15px;
+}
+
+.ynaffiliate_quicklinks_menu > li{
+   margin: 0 6px;
+   padding: 6px 0;
+}
+
+.ynaffiliate_quicklinks_menu > li + li{
+   border-top: 1px solid #D0E2EC;
+}
+
+.active {
+   font-weight: bold;
+}
